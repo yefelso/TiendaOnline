@@ -1,0 +1,234 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Alumno\\source\\repos\\TiendaOnline\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AEF1687C-439B-4573-A1BE-D48A58CE7482}|TiendaOnline\\TiendaOnline.csproj|c:\\users\\alumno\\source\\repos\\tiendaonline\\tiendaonline\\login.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AEF1687C-439B-4573-A1BE-D48A58CE7482}|TiendaOnline\\TiendaOnline.csproj|solutionrelative:tiendaonline\\login.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEF1687C-439B-4573-A1BE-D48A58CE7482}|TiendaOnline\\TiendaOnline.csproj|c:\\users\\alumno\\source\\repos\\tiendaonline\\tiendaonline\\loginadmin.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{AEF1687C-439B-4573-A1BE-D48A58CE7482}|TiendaOnline\\TiendaOnline.csproj|solutionrelative:tiendaonline\\loginadmin.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEF1687C-439B-4573-A1BE-D48A58CE7482}|TiendaOnline\\TiendaOnline.csproj|c:\\users\\alumno\\source\\repos\\tiendaonline\\tiendaonline\\loginadmin.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AEF1687C-439B-4573-A1BE-D48A58CE7482}|TiendaOnline\\TiendaOnline.csproj|solutionrelative:tiendaonline\\loginadmin.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEF1687C-439B-4573-A1BE-D48A58CE7482}|TiendaOnline\\TiendaOnline.csproj|c:\\users\\alumno\\source\\repos\\tiendaonline\\tiendaonline\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AEF1687C-439B-4573-A1BE-D48A58CE7482}|TiendaOnline\\TiendaOnline.csproj|solutionrelative:tiendaonline\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEF1687C-439B-4573-A1BE-D48A58CE7482}|TiendaOnline\\TiendaOnline.csproj|c:\\users\\alumno\\source\\repos\\tiendaonline\\tiendaonline\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{AEF1687C-439B-4573-A1BE-D48A58CE7482}|TiendaOnline\\TiendaOnline.csproj|solutionrelative:tiendaonline\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEF1687C-439B-4573-A1BE-D48A58CE7482}|TiendaOnline\\TiendaOnline.csproj|c:\\users\\alumno\\source\\repos\\tiendaonline\\tiendaonline\\paginaadmin.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{AEF1687C-439B-4573-A1BE-D48A58CE7482}|TiendaOnline\\TiendaOnline.csproj|solutionrelative:tiendaonline\\paginaadmin.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEF1687C-439B-4573-A1BE-D48A58CE7482}|TiendaOnline\\TiendaOnline.csproj|c:\\users\\alumno\\source\\repos\\tiendaonline\\tiendaonline\\catalogoproductos.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{AEF1687C-439B-4573-A1BE-D48A58CE7482}|TiendaOnline\\TiendaOnline.csproj|solutionrelative:tiendaonline\\catalogoproductos.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEF1687C-439B-4573-A1BE-D48A58CE7482}|TiendaOnline\\TiendaOnline.csproj|c:\\users\\alumno\\source\\repos\\tiendaonline\\tiendaonline\\acercad.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{AEF1687C-439B-4573-A1BE-D48A58CE7482}|TiendaOnline\\TiendaOnline.csproj|solutionrelative:tiendaonline\\acercad.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEF1687C-439B-4573-A1BE-D48A58CE7482}|TiendaOnline\\TiendaOnline.csproj|c:\\users\\alumno\\source\\repos\\tiendaonline\\tiendaonline\\catalogoproductos.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AEF1687C-439B-4573-A1BE-D48A58CE7482}|TiendaOnline\\TiendaOnline.csproj|solutionrelative:tiendaonline\\catalogoproductos.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEF1687C-439B-4573-A1BE-D48A58CE7482}|TiendaOnline\\TiendaOnline.csproj|c:\\users\\alumno\\source\\repos\\tiendaonline\\tiendaonline\\registraradmin.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AEF1687C-439B-4573-A1BE-D48A58CE7482}|TiendaOnline\\TiendaOnline.csproj|solutionrelative:tiendaonline\\registraradmin.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEF1687C-439B-4573-A1BE-D48A58CE7482}|TiendaOnline\\TiendaOnline.csproj|c:\\users\\alumno\\source\\repos\\tiendaonline\\tiendaonline\\login.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{AEF1687C-439B-4573-A1BE-D48A58CE7482}|TiendaOnline\\TiendaOnline.csproj|solutionrelative:tiendaonline\\login.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEF1687C-439B-4573-A1BE-D48A58CE7482}|TiendaOnline\\TiendaOnline.csproj|c:\\users\\alumno\\source\\repos\\tiendaonline\\tiendaonline\\agregarusuarioventana.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{AEF1687C-439B-4573-A1BE-D48A58CE7482}|TiendaOnline\\TiendaOnline.csproj|solutionrelative:tiendaonline\\agregarusuarioventana.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEF1687C-439B-4573-A1BE-D48A58CE7482}|TiendaOnline\\TiendaOnline.csproj|c:\\users\\alumno\\source\\repos\\tiendaonline\\tiendaonline\\agregarusuarioventana.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AEF1687C-439B-4573-A1BE-D48A58CE7482}|TiendaOnline\\TiendaOnline.csproj|solutionrelative:tiendaonline\\agregarusuarioventana.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CatalogoProductos.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Alumno\\source\\repos\\TiendaOnline\\TiendaOnline\\CatalogoProductos.xaml.cs",
+              "RelativeDocumentMoniker": "TiendaOnline\\CatalogoProductos.xaml.cs",
+              "ToolTip": "C:\\Users\\Alumno\\source\\repos\\TiendaOnline\\TiendaOnline\\CatalogoProductos.xaml.cs",
+              "RelativeToolTip": "TiendaOnline\\CatalogoProductos.xaml.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAA0wDMAAABaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-03T15:33:12.339Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CatalogoProductos.xaml",
+              "DocumentMoniker": "C:\\Users\\Alumno\\source\\repos\\TiendaOnline\\TiendaOnline\\CatalogoProductos.xaml",
+              "RelativeDocumentMoniker": "TiendaOnline\\CatalogoProductos.xaml",
+              "ToolTip": "C:\\Users\\Alumno\\source\\repos\\TiendaOnline\\TiendaOnline\\CatalogoProductos.xaml",
+              "RelativeToolTip": "TiendaOnline\\CatalogoProductos.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-03T15:29:32.478Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AcercaD.xaml",
+              "DocumentMoniker": "C:\\Users\\Alumno\\source\\repos\\TiendaOnline\\TiendaOnline\\AcercaD.xaml",
+              "RelativeDocumentMoniker": "TiendaOnline\\AcercaD.xaml",
+              "ToolTip": "C:\\Users\\Alumno\\source\\repos\\TiendaOnline\\TiendaOnline\\AcercaD.xaml",
+              "RelativeToolTip": "TiendaOnline\\AcercaD.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-03T14:59:31.633Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LoginAdmin.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Alumno\\source\\repos\\TiendaOnline\\TiendaOnline\\LoginAdmin.xaml.cs",
+              "RelativeDocumentMoniker": "TiendaOnline\\LoginAdmin.xaml.cs",
+              "ToolTip": "C:\\Users\\Alumno\\source\\repos\\TiendaOnline\\TiendaOnline\\LoginAdmin.xaml.cs",
+              "RelativeToolTip": "TiendaOnline\\LoginAdmin.xaml.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAqwBYAAAB/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-03T14:40:14.124Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LoginAdmin.xaml",
+              "DocumentMoniker": "C:\\Users\\Alumno\\source\\repos\\TiendaOnline\\TiendaOnline\\LoginAdmin.xaml",
+              "RelativeDocumentMoniker": "TiendaOnline\\LoginAdmin.xaml",
+              "ToolTip": "C:\\Users\\Alumno\\source\\repos\\TiendaOnline\\TiendaOnline\\LoginAdmin.xaml",
+              "RelativeToolTip": "TiendaOnline\\LoginAdmin.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-03T14:38:28.682Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PaginaAdmin.xaml",
+              "DocumentMoniker": "C:\\Users\\Alumno\\source\\repos\\TiendaOnline\\TiendaOnline\\PaginaAdmin.xaml",
+              "RelativeDocumentMoniker": "TiendaOnline\\PaginaAdmin.xaml",
+              "ToolTip": "C:\\Users\\Alumno\\source\\repos\\TiendaOnline\\TiendaOnline\\PaginaAdmin.xaml",
+              "RelativeToolTip": "TiendaOnline\\PaginaAdmin.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-03T14:23:28.283Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Alumno\\source\\repos\\TiendaOnline\\TiendaOnline\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "TiendaOnline\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\Alumno\\source\\repos\\TiendaOnline\\TiendaOnline\\MainWindow.xaml",
+              "RelativeToolTip": "TiendaOnline\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-03T12:10:49.175Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Alumno\\source\\repos\\TiendaOnline\\TiendaOnline\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "TiendaOnline\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Alumno\\source\\repos\\TiendaOnline\\TiendaOnline\\MainWindow.xaml.cs",
+              "RelativeToolTip": "TiendaOnline\\MainWindow.xaml.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAADIAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-03T12:10:47.95Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Login.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Alumno\\source\\repos\\TiendaOnline\\TiendaOnline\\Login.xaml.cs",
+              "RelativeDocumentMoniker": "TiendaOnline\\Login.xaml.cs",
+              "ToolTip": "C:\\Users\\Alumno\\source\\repos\\TiendaOnline\\TiendaOnline\\Login.xaml.cs",
+              "RelativeToolTip": "TiendaOnline\\Login.xaml.cs",
+              "ViewState": "AQIAACoAAAAAAAAAAADwvzsAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-03T12:27:30.08Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "RegistrarAdmin.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Alumno\\source\\repos\\TiendaOnline\\TiendaOnline\\RegistrarAdmin.xaml.cs",
+              "RelativeDocumentMoniker": "TiendaOnline\\RegistrarAdmin.xaml.cs",
+              "ToolTip": "C:\\Users\\Alumno\\source\\repos\\TiendaOnline\\TiendaOnline\\RegistrarAdmin.xaml.cs",
+              "RelativeToolTip": "TiendaOnline\\RegistrarAdmin.xaml.cs",
+              "ViewState": "AQIAAEoAAAAAAAAAAADwv1sAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-03T14:44:40.766Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AgregarUsuarioVentana.xaml",
+              "DocumentMoniker": "C:\\Users\\Alumno\\source\\repos\\TiendaOnline\\TiendaOnline\\AgregarUsuarioVentana.xaml",
+              "RelativeDocumentMoniker": "TiendaOnline\\AgregarUsuarioVentana.xaml",
+              "ToolTip": "C:\\Users\\Alumno\\source\\repos\\TiendaOnline\\TiendaOnline\\AgregarUsuarioVentana.xaml",
+              "RelativeToolTip": "TiendaOnline\\AgregarUsuarioVentana.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-03T12:37:34.704Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Login.xaml",
+              "DocumentMoniker": "C:\\Users\\Alumno\\source\\repos\\TiendaOnline\\TiendaOnline\\Login.xaml",
+              "RelativeDocumentMoniker": "TiendaOnline\\Login.xaml",
+              "ToolTip": "C:\\Users\\Alumno\\source\\repos\\TiendaOnline\\TiendaOnline\\Login.xaml",
+              "RelativeToolTip": "TiendaOnline\\Login.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-03T12:25:52.795Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AgregarUsuarioVentana.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Alumno\\source\\repos\\TiendaOnline\\TiendaOnline\\AgregarUsuarioVentana.xaml.cs",
+              "RelativeDocumentMoniker": "TiendaOnline\\AgregarUsuarioVentana.xaml.cs",
+              "ToolTip": "C:\\Users\\Alumno\\source\\repos\\TiendaOnline\\TiendaOnline\\AgregarUsuarioVentana.xaml.cs",
+              "RelativeToolTip": "TiendaOnline\\AgregarUsuarioVentana.xaml.cs",
+              "ViewState": "AQIAADIAAAAAAAAAAAAwwFQAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-03T12:40:53.036Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

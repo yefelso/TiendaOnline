@@ -1,0 +1,16 @@
+﻿<Window x:Name="DAcerca" x:Class="TiendaOnline.AcercaD"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:TiendaOnline"
+        mc:Ignorable="d"
+        Title="AcercaD" Height="550" Width="800">
+    <Grid Background="#FF58C8C5">
+        <Label Content="Acerca de Nosotros" HorizontalAlignment="Center" Margin="0,20,0,0" VerticalAlignment="Top"/>
+        <Label Content="                                                                                        DESCRIPCION&#xA;&#xA;&quot;Bebidas Express&quot; es una aplicación móvil diseñada para aquellos que desean disfrutar de una amplia variedad &#xA;de bebidas desde la comodidad de su hogar o donde quiera que estén. Desde refrescantes bebidas energéticas &#xA;hasta exquisitos vinos y licores premium, nuestra aplicación ofrece una experiencia de compra rápida y&#xA; conveniente para satisfacer todos los gustos y ocasiones." HorizontalAlignment="Left" Margin="72,64,0,0" VerticalAlignment="Top" Height="118" Width="690" Background="#FFCACECB"/>
+        <Label Content="                                                                                           POLITICAS&#xD;&#xA;&#xA;Calidad Garantizada: Nos comprometemos a ofrecer productos de la más alta calidad,&#xA; seleccionados cuidadosamente para garantizar la satisfacción del cliente en cada compra.&#xD;&#xA;&#xA;Seguridad de Pago: Priorizamos la seguridad de los datos de nuestros clientes. &#xA;Todas las transacciones se realizan a través de métodos de pago seguros y confiables.&#xD;&#xA;&#xA;Entrega Rápida: Nuestro servicio de entrega rápida asegura que las bebidas &#xA;lleguen a su destino en el menor tiempo posible, para que los clientes puedan disfrutarlas frescas y listas para ser disfrutadas.&#xD;&#xA;&#xA;Atención al Cliente: Estamos comprometidos a brindar un excelente servicio al cliente. &#xA;Nuestro equipo está disponible para resolver cualquier pregunta o inquietud que pueda surgir durante el proceso de compra.&#xD;&#xA;" HorizontalAlignment="Left" Margin="72,198,0,0" VerticalAlignment="Top" Height="241" Width="690" Background="#FFDCC9DA"/>
+
+
+    </Grid>
+</Window>

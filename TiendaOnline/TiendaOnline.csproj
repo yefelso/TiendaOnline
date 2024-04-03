@@ -1,0 +1,31 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net8.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="catalogo-de-servicios-icono-vectorial-aislado-sobre-fondo-transparente-catalogo-de-servicios-concepto-de-logotipo-p2abr2.jpg" />
+    <None Remove="images %281%29.png" />
+    <None Remove="images.png" />
+    <None Remove="png-transparent-beer-food-non-alcoholic-drink-famous-brand-food-company-logo.png" />
+    <None Remove="register-design-template-08f14379984c86336ca1869f84e4a9c7_screen.jpg" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="System.Data.SqlClient" Version="4.8.6" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="catalogo-de-servicios-icono-vectorial-aislado-sobre-fondo-transparente-catalogo-de-servicios-concepto-de-logotipo-p2abr2.jpg" />
+    <Resource Include="images (1).png" />
+    <Resource Include="images.png" />
+    <Resource Include="png-transparent-beer-food-non-alcoholic-drink-famous-brand-food-company-logo.png" />
+    <Resource Include="register-design-template-08f14379984c86336ca1869f84e4a9c7_screen.jpg" />
+  </ItemGroup>
+
+</Project>

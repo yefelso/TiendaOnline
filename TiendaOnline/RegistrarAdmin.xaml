@@ -1,0 +1,55 @@
+﻿<Window x:Name="AdminRegistrar" x:Class="TiendaOnline.RegistrarAdmin"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:TiendaOnline"
+        mc:Ignorable="d"
+        Title="RegistrarAdmin" Height="450" Width="400">
+    <Grid>
+
+        <Label Content="Registro" HorizontalAlignment="Left" Margin="147,28,0,0" VerticalAlignment="Top" FontFamily="Times New Roman" Background="#FF41CCB6"/>
+        <Label Content="Password" HorizontalAlignment="Left" Margin="26,199,0,0" VerticalAlignment="Top" RenderTransformOrigin="-0.393,0.387" FontFamily="Times New Roman" Width="105" Background="#FF86D24A"/>
+        <Label Content="Email" HorizontalAlignment="Left" Margin="26,143,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.652,0.425" FontFamily="Times New Roman" Width="105" Background="#FF86D24A"/>
+        <Label Content="Nombre" HorizontalAlignment="Left" Margin="26,80,0,0" VerticalAlignment="Top" FontFamily="Times New Roman" RenderTransformOrigin="0.5,0.5" Width="104" Background="#FF86D24A">
+            <Label.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform/>
+                    <RotateTransform Angle="1.456"/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </Label.RenderTransform>
+        </Label>
+        <TextBox x:Name="Name" HorizontalAlignment="Left" Height="26" Margin="173,79,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="203" TextChanged="TextBox_TextChanged" FontFamily="Times New Roman">
+            <TextBox.Background>
+                <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                    <GradientStop Color="#FFF7F5F5"/>
+                    <GradientStop Color="#FF57CA47" Offset="1"/>
+                    <GradientStop Color="#FFFDFCFC" Offset="0.78"/>
+                </LinearGradientBrush>
+            </TextBox.Background>
+        </TextBox>
+        <TextBox x:Name="Email" HorizontalAlignment="Left" Height="26" Margin="173,146,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="203" TextChanged="Email_TextChanged" FontFamily="Times New Roman">
+            <TextBox.Background>
+                <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                    <GradientStop Color="#FFE4DFDF"/>
+                    <GradientStop Color="#FF57CA47" Offset="1"/>
+                    <GradientStop Color="#FFF8F7F7" Offset="0.76"/>
+                </LinearGradientBrush>
+            </TextBox.Background>
+        </TextBox>
+        <Button x:Name="Registrar_Usuario" Content="Registrar" HorizontalAlignment="Left" Height="24" Margin="134,280,0,0" VerticalAlignment="Top" Width="105" FontFamily="Times New Roman" Click="Button_Click" Background="#FFDA14A5"/>
+        <Button x:Name="Login1" Content="Login" HorizontalAlignment="Left" Height="24" Margin="249,328,0,0" VerticalAlignment="Top" Width="106" FontFamily="Times New Roman" Click="Button_Click_1" Background="#FFD7ED0C" RenderTransformOrigin="0.41,-0.852"/>
+        <PasswordBox x:Name="PasswordBox" HorizontalAlignment="Left" Margin="173,202,0,0" VerticalAlignment="Top" Width="203" Height="21">
+            <PasswordBox.Background>
+                <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                    <GradientStop Color="#FFFFF5F5"/>
+                    <GradientStop Color="#FF428C28" Offset="1"/>
+                    <GradientStop Color="#FFFFFCFC" Offset="0.753"/>
+                </LinearGradientBrush>
+            </PasswordBox.Background>
+        </PasswordBox>
+
+    </Grid>
+</Window>

@@ -1,0 +1,58 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup />
+  <ItemGroup>
+    <ApplicationDefinition Update="App.xaml">
+      <SubType>Designer</SubType>
+    </ApplicationDefinition>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Update="AcercaD.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="AgregarUsuarioVentana.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="CatalogoProductos.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Login.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="LoginAdmin.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="PaginaAdmin.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="RegistrarAdmin.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Page Update="AcercaD.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="AgregarUsuarioVentana.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="CatalogoProductos.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Login.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="LoginAdmin.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="MainWindow.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="PaginaAdmin.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="RegistrarAdmin.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+  </ItemGroup>
+</Project>
